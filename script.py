@@ -3,10 +3,5 @@ import os
 import sys
 
 import requests
-
-
-print(sys.version)
-print(sys.executable)
-
-name = "krishna"
+name = "yyyyyyy"
 print("hello ", name)
